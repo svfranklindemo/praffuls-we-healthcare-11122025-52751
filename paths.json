@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/praffuls-wehealth-11-dec/language-masters/en:/",
+    "/content/praffuls-wehealth-11-dec/language-masters/en/:/en/",
+    "/content/praffuls-wehealth-11-dec/language-masters/fr/:/fr/",
+    "/content/praffuls-wehealth-11-dec/language-masters/fr:/fr",
+    "/content/praffuls-wehealth-11-dec/language-masters/es/:/es/",
+    "/content/praffuls-wehealth-11-dec/language-masters/es:/es",
+    "/content/praffuls-wehealth-11-dec/language-masters/ja/:/ja/",
+    "/content/praffuls-wehealth-11-dec/language-masters/ja:/ja",
+    "/content/praffuls-wehealth-11-dec/language-masters/de/:/de/",
+    "/content/praffuls-wehealth-11-dec/language-masters/de:/de",
+    "/content/praffuls-wehealth-11-dec/configuration:/.helix/config.json",
+    "/content/praffuls-wehealth-11-dec/metadata:/metadata.json",
+    "/content/praffuls-wehealth-11-dec/redirects:/redirects.json",
+    "/content/praffuls-wehealth-11-dec/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/praffuls-wehealth-11-dec/",
+    "/content/dam/praffuls-wehealth-11-dec/"
   ]
 }
